@@ -33,4 +33,4 @@ Sou um Desenvolvedor Backend apaixonado por criar arquiteturas escaláveis, segu
 ### 📫 Como me encontrar
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/arthur-vinicius-devjava/]
-* ✉️ **Email:** arthhurmatos@gmmail.com
+* ✉️ **Email:** arthhurmatos@gmail.com
