@@ -6,9 +6,9 @@ Sou um Desenvolvedor Backend apaixonado por criar arquiteturas escaláveis, segu
 
 ### 🚀 O que ando a fazer?
 
-* 🔭 Atualmente a desenvolver o **[Proply](https://github.com/ArthurVSMatos/Proply)**, uma API SaaS Multi-tenant para gestão imobiliária.
-* 🌱 A aprofundar os meus conhecimentos em **Arquitetura de Software, Segurança (JWT) e Boas Práticas (SOLID, DTOs, Paginação e Tratamento de Exceções)**.
-* ⚡ Gosto de transformar regras de negócio complexas em código limpo, isolado e fácil de manter.
+* Atualmente a desenvolver o **[Proply](https://github.com/ArthurVSMatos/Proply)**, uma API SaaS Multi-tenant para gestão imobiliária.
+* A aprofundar os meus conhecimentos em **Arquitetura de Software, Segurança (JWT) e Boas Práticas (SOLID, DTOs, Paginação e Tratamento de Exceções)**.
+* Gosto de transformar regras de negócio complexas em código limpo, isolado e fácil de manter.
 
 ---
 
