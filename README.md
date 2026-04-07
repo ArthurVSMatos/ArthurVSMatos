@@ -21,11 +21,12 @@ Sou um Desenvolvedor Backend apaixonado por criar arquiteturas escaláveis, segu
 
 ---
 
-### 📊 Estatísticas do GitHub
+
+### 🗂️ Resumo do Perfil
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArthurVSMatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVSMatos&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurVSMatos&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurVSMatos&theme=tokyonight" />
 </p>
 
 ---
